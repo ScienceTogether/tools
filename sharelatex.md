@@ -1,12 +1,12 @@
 ---
-title: sharelatex
+title: ShareLaTeX
 program: sharelatex
 categories:
    - real-time-editing
    - LaTeX
-logo: 
-link: 
-wlink: 
+logo: http://2014.ruleml.org/images/ShareLaTeX.png
+link: https://www.sharelatex.com/
+wlink: https://en.wikipedia.org/wiki/ShareLaTeX
 pros:
    - LaTeX editor (with autocomplete) and viewer
    - comments on document

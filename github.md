@@ -5,7 +5,7 @@ categories:
    - version-control
    - review-platform
    - task-list
-logo: https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg
+logo: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
 link: https://github.com/
 wlink: https://en.wikipedia.org/wiki/Github
 pros:
