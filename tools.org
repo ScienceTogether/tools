@@ -1,0 +1,6 @@
+sparrho> pined items -> http://www.sparrho.com/pinboard/sunpy/142097/
+*unity http://www.unity.ac/ -> perfiles (how private?), invite external univers and people
+osf allows also comments and discussions
+Hypothes.is -> annotate websites, share annotations
+gitter -> also topics, to have forum like discussions
+Teleconf systems: https://zoom.us/download works on linux/Arch!!
