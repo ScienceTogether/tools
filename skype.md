@@ -2,9 +2,8 @@
 title: skype
 program: skype
 categories:
-   - messenger
+   - chat
    - videoconference
-   - p2p
 logo: https://secure.skypeassets.com/i/common/images/icons/apple-touch-icon.png
 link: http://skype.com
 wlink: https://en.wikipedia.org/wiki/Skype

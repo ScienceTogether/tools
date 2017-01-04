@@ -3,7 +3,7 @@ title: docollab
 program: docollab
 categories:
    - share-research-steps
-   - electronic-lab-notebook
+   - research-lab-notebook
 logo: https://avatars2.githubusercontent.com/u/8377199?v=3&s=200
 link: https://www.docollab.com
 wlink:

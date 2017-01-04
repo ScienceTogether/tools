@@ -11,8 +11,7 @@ pros:
    - share collections with colleagues.
    - Export libraries to different editors (including BibTex)
    - Installable in your own server.
-   - Extensible via plugins for endless options ([zotxt](https://gitlab.com/egh/zotxt),
-   [zotfile](http://zotfile.com/), [etc.](https://www.zotero.org/support/plugins))
+   - Extensible via plugins for endless options ([zotxt](https://gitlab.com/egh/zotxt), [zotfile](http://zotfile.com/), [etc.](https://www.zotero.org/support/plugins))
 cons:
    - Not able to share notes.
 opensource: true

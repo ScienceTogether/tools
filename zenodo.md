@@ -8,7 +8,7 @@ link: https://zenodo.org/
 wlink: https://en.wikipedia.org/wiki/Zenodo
 pros:
    - EU supported
-   - [github integration](https://guides.github.com/activities/citable-code/)
+   - allows [github integration](https://guides.github.com/activities/citable-code/)
    - provides [doi](https://en.wikipedia.org/wiki/Digital_object_identifier)
 cons:
    - not allowed to produce multiple versions
