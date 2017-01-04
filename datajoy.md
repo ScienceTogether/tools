@@ -11,7 +11,7 @@ pros:
    - share projects with link/no account needed.
 cons:
    - it's closing *down*! :(
-opensource: fase
+opensource: false
 os:
    windows: web
    linux: web
