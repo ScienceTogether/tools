@@ -4,7 +4,7 @@ program: substormzoo
 categories:
    - research-lab-notebook
    - online data-analysis
-logo: {{ site.include }}/substormzoo.png
+logo: https://www.substormzoo.org/sub5/images/aurinko11.png
 link: https://www.substormzoo.org/
 wlink:
 pros:
