@@ -3,7 +3,6 @@ title: hangouts
 program: hangouts
 categories:
  - mobile
- - applcatio
  - videoconference
 logo: https://upload.wikimedia.org/wikipedia/commons/f/fe/Hangouts_Icon.png
 link: https://hangouts.google.com

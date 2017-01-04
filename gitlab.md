@@ -5,14 +5,14 @@ categories:
    - version-control
    - review-platform
    - task-list
-logo: https://gitlab.com/uploads/project/avatar/13083/gitlab-logo-square.png
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/2000px-GitLab_Logo.svg.png
 link: https://gitlab.com/
 wlink: https://en.wikipedia.org/wiki/GitLab
 pros:
    - review process based on comments on lines of code
 cons:
    - Yet another account
-opensource: https://gitlab.com/gitlab-org/gitlab-ce.git
+opensource: https://gitlab.com/gitlab-org/gitlab-ce
 os:
    windows: web
    linux: web
