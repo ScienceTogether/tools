@@ -7,6 +7,7 @@ categories:
    - p2p
 logo: https://secure.skypeassets.com/i/common/images/icons/apple-touch-icon.png
 link: http://skype.com
+wlink: https://en.wikipedia.org/wiki/Skype
 pros:
    - linked with other MS products
 cons:
