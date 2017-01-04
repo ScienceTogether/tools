@@ -3,7 +3,7 @@ title: box
 program: box
 categories:
    - file-sharing
-logo: https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Box_%28Company_logo%29.svg/225px-Box_%28Company_logo%29.svg.png
+logo: https://upload.wikimedia.org/wikipedia/commons/5/57/Box%2C_Inc._logo.svg
 link: https://www.box.com/
 wlink: https://en.wikipedia.org/wiki/Box_(company)
 pros:
