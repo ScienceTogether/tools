@@ -14,7 +14,7 @@ pros:
    - Extensible via plugins for endless options ([zotxt](https://gitlab.com/egh/zotxt), [zotfile](http://zotfile.com/), [etc.](https://www.zotero.org/support/plugins))
 cons:
    - Not able to share notes.
-opensource: true
+opensource: https://github.com/zotero
 os:
    windows: true
    linux: true

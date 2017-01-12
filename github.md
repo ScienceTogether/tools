@@ -2,9 +2,10 @@
 title: github
 program: github
 categories:
-   - version-control
+   - version-control-hosting
    - review-platform
    - task-list
+   - wiki
 logo: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
 link: https://github.com/
 wlink: https://en.wikipedia.org/wiki/Github

@@ -14,7 +14,7 @@ pros:
  - Public and private rooms
  - multiple clients (using standards)
 cons:
-opensource: true
+opensource: https://github.com/matrix-org
 os:
    windows: true
    linux: true
