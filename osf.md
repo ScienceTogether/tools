@@ -2,9 +2,9 @@
 title: Open Science Framework
 program:
 categories:
-   - version-control
+   - version-control-hosting
    - share-research-steps
-logo: https://cos.io/static/img/icons/cos_logo.png
+logo: https://raw.githubusercontent.com/CenterForOpenScience/osf.io/develop/website/static/img/circle_logo.png
 link: https://osf.io/
 wlink: https://en.wikipedia.org/wiki/Center_for_Open_Science#Open_Science_Framework
 pros:
