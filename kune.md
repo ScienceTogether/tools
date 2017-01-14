@@ -1,6 +1,6 @@
 ---
 title: kune
-program: kune
+program:
 categories:
    - community
    - file-sharing

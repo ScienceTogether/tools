@@ -1,6 +1,6 @@
 ---
 title: box
-program: box
+program:
 categories:
    - file-sharing
 logo: https://upload.wikimedia.org/wikipedia/commons/5/57/Box%2C_Inc._logo.svg

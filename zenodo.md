@@ -1,6 +1,6 @@
 ---
 title: zenodo
-program: zenodo
+program:
 categories:
    - research-data-repository
 logo: https://zenodo.org/static/img/logos/zenodo-gradient-2500.png

@@ -1,6 +1,6 @@
 ---
 title: figshare
-program: figshare
+program:
 categories:
    - research-data-repository
 logo: https://upload.wikimedia.org/wikipedia/commons/d/df/Figshare_logo.svg

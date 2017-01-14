@@ -1,6 +1,6 @@
 ---
 title: overleaf
-program: overleaf
+program:
 categories:
    - real-time-editing
    - LaTeX

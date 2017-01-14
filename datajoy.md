@@ -1,6 +1,6 @@
 ---
 title: datajoy
-program: datajoy
+program:
 categories:
    - pair-programming
 logo: http://www.similars.io/img/logo/datajoy_69597.png

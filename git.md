@@ -1,6 +1,6 @@
 ---
 title: git
-program: git
+program:
 categories:
    - version-control
 logo: https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg

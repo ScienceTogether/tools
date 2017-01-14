@@ -1,6 +1,6 @@
 ---
-title: google drive
-program: google drive
+title: onedrive
+program:
 categories:
    - file-sharing
    - real-time-editing

@@ -1,6 +1,6 @@
 ---
 title: Open Science Framework
-program: Open Science Framework 
+program:
 categories:
    - version-control
    - share-research-steps

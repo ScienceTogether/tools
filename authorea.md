@@ -1,6 +1,6 @@
 ---
 title: authorea
-program: authorea
+program:
 categories:
    - real-time-editing
    - LaTeX

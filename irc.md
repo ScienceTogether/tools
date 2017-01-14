@@ -1,6 +1,6 @@
 ---
 title: irc
-program: irc
+program:
 categories:
  - chat
 logo: http://www.43oh.com/wp-content/uploads/2010/11/msp430_ircl_channel_43oh.png

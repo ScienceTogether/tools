@@ -1,9 +1,9 @@
 ---
 title: myExperiment
-program: myExperiment
+program:
 categories:
    - share-research-steps
-logo: http://www.myexperiment.org/images/logo.png?1422963517
+logo: http://wiki.myexperiment.org/images/MyExperiment_logo_1254x240.png
 link: http://www.myexperiment.org
 wlink: https://en.wikipedia.org/wiki/MyExperiment
 pros:

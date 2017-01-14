@@ -1,6 +1,6 @@
 ---
 title: Dryad
-program: Dryad
+program:
 categories:
    - research-data-repository
 logo: https://upload.wikimedia.org/wikipedia/en/9/91/DryadLogo.png

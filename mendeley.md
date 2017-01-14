@@ -1,6 +1,6 @@
 ---
 title: mendeley 
-program: mendeley 
+program:
 categories:
    - references
 logo: http://www.bce.unb.br/wp-content/uploads/2015/05/Vertical_Full_Color_0.png

@@ -1,6 +1,6 @@
 ---
 title: ShareLaTeX
-program: sharelatex
+program:
 categories:
    - real-time-editing
    - LaTeX

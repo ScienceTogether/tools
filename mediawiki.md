@@ -1,6 +1,6 @@
 ---
 title: MediaWiki
-program: MediaWiki
+program:
 categories:
    - wiki
 logo: https://upload.wikimedia.org/wikipedia/commons/0/01/MediaWiki-smaller-logo.png
