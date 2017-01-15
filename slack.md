@@ -2,7 +2,6 @@
 title: slack
 program: slack
 categories:
- - mobile
  - chat
  - videoconference
 logo: https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png
@@ -19,4 +18,5 @@ os:
    windows: true
    linux: true
    mac: true
+mobile: true
 ---

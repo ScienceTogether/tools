@@ -2,7 +2,6 @@
 title: zulip
 program: zulip
 categories:
- - mobile
  - chat
 logo: https://zulip.org/images/logos/zulip-icon-512x512.png
 link: https://zulip.org/index.html
@@ -16,4 +15,5 @@ os:
    windows: true
    linux: true
    mac: true
+mobile: true
 ---

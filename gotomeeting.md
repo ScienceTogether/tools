@@ -2,7 +2,6 @@
 title: gotomeeting
 program: gotomeeting
 categories:
- - mobile
  - videoconference
 logo: https://download.citrixonline.com/launcher2/static/images/product-logos/logo-daisy-160px/g2m-daisy.png
 link: https://www.gotomeeting.com/
@@ -16,4 +15,5 @@ os:
    windows: true
    linux: true
    mac: true
+mobile: true
 ---

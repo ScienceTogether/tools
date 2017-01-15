@@ -17,5 +17,6 @@ os:
    windows: web
    linux: web
    mac: web
+mobile: false
 ---
 

@@ -2,7 +2,6 @@
 title: hangouts
 program: hangouts
 categories:
- - mobile
  - videoconference
 logo: https://upload.wikimedia.org/wikipedia/commons/f/fe/Hangouts_Icon.png
 link: https://hangouts.google.com
@@ -19,4 +18,5 @@ os:
    windows: true
    linux: true
    mac: true
+mobile: true
 ---

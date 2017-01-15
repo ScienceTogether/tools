@@ -2,7 +2,6 @@
 title: jitsi
 program: jitsi
 categories:
- - mobile
  - videoconference
 logo: https://jitsi.org/logo/jitsi_logo_876x1311.png
 link: https://meet.jit.si
@@ -17,4 +16,5 @@ os:
    windows: true
    linux: true
    mac: true
+mobile: true
 ---

@@ -2,7 +2,6 @@
 title: WebEx
 program: WebEx
 categories:
- - mobile
  - videoconference
 logo: https://lh3.googleusercontent.com/ZurGRaoq6iujA2BiA7mmRUacn3JYb-H40JkCj57xHE8xbXeEOxnemU8FZq2T8R1-PCMb=w300
 link: https://www.webex.com/
@@ -17,4 +16,5 @@ os:
    windows: true
    linux: true
    mac: true
+mobile: true
 ---
