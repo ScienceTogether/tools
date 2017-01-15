@@ -19,7 +19,8 @@ pros:
    - threaded.
    - open or closed groups.
    - Choose license of content easily.
-   - chat using [XMPP][https://en.wikipedia.org/wiki/XMPP]
+   - chat using [XMPP](https://en.wikipedia.org/wiki/XMPP)
+   - Federated, one count allows you to work in other servers.
 cons:
    - Wave is at first confusing
 opensource: https://github.com/comunes/kune/
@@ -30,9 +31,9 @@ os:
 ---
 
 A community environment using what it was once 
-[google wave][https://en.wikipedia.org/wiki/Google_Wave] 
+[google wave](https://en.wikipedia.org/wiki/Google_Wave)
 and now maintained by
-[apache][https://incubator.apache.org/wave/]
-([w][https://en.wikipedia.org/wiki/Apache_Wave])
+[apache](https://incubator.apache.org/wave/)
+([w](https://en.wikipedia.org/wiki/Apache_Wave))
 
 Includes also calendars and forum-like capabilities with threaded view.

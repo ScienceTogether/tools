@@ -11,7 +11,7 @@ pros:
    - Attribute others people work if using their workflow.
    - Collaboration/sharing between groups.
    - accepts multiple workflow technologies.
-   - ~~Open/execute workflow directly on the web via [OnlineHPC][http://onlinehpc.com/]([w][https://en.wikipedia.org/wiki/OnlineHPC])~~ (offline since May 2016).
+   - ~~Open/execute workflow directly on the web via [OnlineHPC](http://onlinehpc.com/)([w](https://en.wikipedia.org/wiki/OnlineHPC))~~ (offline since May 2016).
 cons:
    - workflows are quite repetitive as they are not like functions - but that's workflow problem, not myExperiment itself.
 opensource: false
@@ -22,12 +22,12 @@ os:
 ---
 
 myExperiment offers a *social network* for multiple workflow tools like
-[Taverna][https://en.wikipedia.org/wiki/MyExperiment]([w][https://en.wikipedia.org/wiki/Apache_Taverna]),
-[Galaxy][https://galaxyproject.org],
-[Kepler][https://kepler-project.org/], ...
+[Taverna](https://en.wikipedia.org/wiki/MyExperiment)([w](https://en.wikipedia.org/wiki/Apache_Taverna)),
+[Galaxy](https://galaxyproject.org),
+[Kepler](https://kepler-project.org/), ...
 
-For now, e-infrastructures as [er-flow][http://www.erflow.eu/] or
-[shiwa][http://www.shiwa-workflow.eu/] builds on
+For now, e-infrastructures as [er-flow](http://www.erflow.eu/) or
+[shiwa](http://www.shiwa-workflow.eu/) builds on
 workflows so researchers can run some of them.
 
 

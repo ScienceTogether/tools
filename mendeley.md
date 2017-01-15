@@ -23,4 +23,4 @@ os:
 ---
 
 Mendeley started as an independent 
-[Last.fm][https://en.wikipedia.org/wiki/Last.fm] like for papers.
+[Last.fm](https://en.wikipedia.org/wiki/Last.fm) like for papers.

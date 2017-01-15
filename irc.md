@@ -7,7 +7,7 @@ logo: http://www.43oh.com/wp-content/uploads/2010/11/msp430_ircl_channel_43oh.pn
 link: https://freenode.net/
 wlink: https://en.wikipedia.org/wiki/Internet_Relay_Chat
 pros:
-   - multiple clients (even through [web][https://client00.chat.mibbit.com/])
+   - multiple clients (even through [web](https://client00.chat.mibbit.com/))
    - Not account needed (only nickname).
    - Highly customised.
 cons:
