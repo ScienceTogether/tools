@@ -6,7 +6,7 @@ categories:
    - LaTeX
 logo: https://www.overleaf.com/overleaf-partner/overleaf-greygreen-410.png
 link: https://www.overleaf.com
-wlink: 
+wlink: false
 pros:
    - LaTeX editor (with autocomplete) and viewer
    - rich text editor (good if you don't know latex)
