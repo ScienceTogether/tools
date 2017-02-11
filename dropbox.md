@@ -4,7 +4,7 @@ program: dropbox
 categories:
    - file-sharing
    - real-time-editting
-   - LaTex
+   - LaTeX
 logo: https://cfl.dropboxstatic.com/static/images/brand/twitter-card-glyph@2x-vflVqhKLO.png
 link: http://dropbox.com/
 wlink: https://en.wikipedia.org/wiki/Dropbox_(service)
