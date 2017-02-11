@@ -3,7 +3,7 @@ title: gitlab
 program: gitlab
 categories:
    - version-control-hosting
-   - review-platform
+   - code-review-platform
    - task-list
    - wiki
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/2000px-GitLab_Logo.svg.png

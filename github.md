@@ -3,7 +3,7 @@ title: github
 program: github
 categories:
    - version-control-hosting
-   - review-platform
+   - code-review-platform
    - task-list
    - wiki
 logo: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
