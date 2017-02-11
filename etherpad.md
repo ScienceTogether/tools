@@ -1,6 +1,6 @@
 ---
 title: etherpad
-program: etherpad
+program:
 categories:
    - real-time-editing
 logo: http://etherpad.org/img/brand.png 
