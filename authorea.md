@@ -14,6 +14,7 @@ pros:
    - independent paragraphs for editing and commenting.
    - chat for authors (help to show a discussion to new added authors).
    - github integration.
+   - can assign [DOI number](https://www.authorea.com/users/8850/articles/155312-write-cite-collaborate-host-data-_and_-_preprint-_) to your documents.
 cons:
    - needs account to collaborate.
 opensource: false

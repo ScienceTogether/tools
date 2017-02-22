@@ -27,3 +27,7 @@ them also contain other similar tools like [ethercalc](https://ethercalc.org/),
 
 - [sandstorm](https://apps.sandstorm.io/)
 - [framasoft](http://framasoft.net/) (in French)
+
+And if the default seems you not much, there is a lot
+of [plugins](https://static.etherpad.org/plugins.html) that you can add to
+your personal instance.
