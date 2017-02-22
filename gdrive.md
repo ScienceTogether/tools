@@ -4,6 +4,7 @@ program: google drive
 categories:
    - file-sharing
    - real-time-editing
+   - real-time-drawing
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Google_Drive.svg/2000px-Logo_of_Google_Drive.svg.png
 link: https://drive.google.com/
 pros:
