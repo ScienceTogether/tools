@@ -9,7 +9,7 @@ pros:
    - No need account
 cons:
    - It uses flash.
-opensource: https://github.com/drawpile/Drawpile
+opensource: false
 os:
    windows: web
    linux: web
