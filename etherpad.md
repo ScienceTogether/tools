@@ -14,7 +14,7 @@ pros:
    - chat with other users
    - export document to multiple formats (html, pdf, ...)
 cons:
-opensource: true
+opensource: https://github.com/ether
 os:
    windows: web
    linux: web

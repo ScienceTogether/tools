@@ -13,7 +13,7 @@ pros:
 cons:
    - Needs additions to save history.
    - Needs bouncers for notifications when not online. 
-opensource: true
+opensource: https://tools.ietf.org/html/rfc1459
 os:
    windows: true
    linux: true

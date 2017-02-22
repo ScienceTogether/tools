@@ -11,7 +11,7 @@ pros:
  - Up to n users
  - Broadcast to youtube
 cons:
-opensource: true
+opensource: https://github.com/jitsi
 os:
    windows: true
    linux: true
