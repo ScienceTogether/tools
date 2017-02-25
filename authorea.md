@@ -17,6 +17,7 @@ pros:
    - can assign [DOI number](https://www.authorea.com/users/8850/articles/155312-write-cite-collaborate-host-data-_and_-_preprint-_) to your documents.
 cons:
    - needs account to collaborate.
+   - No ORCiD integration.
 opensource: false
 os:
    windows: web
