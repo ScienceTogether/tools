@@ -9,6 +9,8 @@ logo:
 link: 
 wlink:
 pros:
+# Do not start with a markdown link after the item, ie:
+# - [something](to somewhere) will fail.
    - 
 cons:
    -

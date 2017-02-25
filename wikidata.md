@@ -10,9 +10,9 @@ wlink: https://en.wikipedia.org/wiki/Wikidata
 pros:
    - A structured database [that anyone can edit](https://www.wikidata.org/w/index.php?title=Special:RecentChanges&hidebots=0).
    - All the [pros of MediaWiki](./mediawiki.html).
-   - [No restriction on reuse](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+   - No [restriction on reuse](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
    - Multiple ways to [access data](https://www.wikidata.org/wiki/Wikidata:Data_access).
-   - [Ongoing integration](https://www.wikidata.org/wiki/Wikidata:Development_plan) with Wikipedia and its sister sites.
+   - Ongoing [integration](https://www.wikidata.org/wiki/Wikidata:Development_plan) with Wikipedia and its sister sites.
    - Becoming [useful in research contexts](https://doi.org/10.1101/102046).
 cons:
    - Limited number of [data types supported](https://www.wikidata.org/wiki/Special:ListDatatypes)
@@ -22,4 +22,5 @@ os:
    windows: web
    linux: web
    mac: web
+mobile: true
 ---
