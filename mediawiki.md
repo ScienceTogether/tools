@@ -3,6 +3,7 @@ title: MediaWiki
 program:
 categories:
    - wiki
+   - version-control
 logo: https://upload.wikimedia.org/wikipedia/commons/0/01/MediaWiki-smaller-logo.png
 link: https://www.mediawiki.org/
 wlink: https://en.wikipedia.org/wiki/MediaWiki
