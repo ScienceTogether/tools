@@ -13,7 +13,7 @@ pros:
    - No [restriction on reuse](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
    - Multiple ways to [access data](https://www.wikidata.org/wiki/Wikidata:Data_access).
    - Ongoing [integration](https://www.wikidata.org/wiki/Wikidata:Development_plan) with Wikipedia and its sister sites.
-   - Becoming [useful in research contexts](https://doi.org/10.1101/102046).
+   - Becoming [useful in research contexts](https://tools.wmflabs.org/scholia/topic/Q2013).
 cons:
    - Limited number of [data types supported](https://www.wikidata.org/wiki/Special:ListDatatypes)
    - Still [loads of gaps](https://www.wikidata.org/wiki/Property:P2429)
