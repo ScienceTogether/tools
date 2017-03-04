@@ -18,6 +18,10 @@ pros:
 cons:
    - needs account to collaborate.
    - No ORCiD integration.
+   - Not allow you to move blocks of markdown/latex/tables
+   - Unable to see where the people is editing
+   - Documents section contains a lot of files - difficult to know which one is which.
+   - You cannot edit a markdown/latex block if someone is editing it (and it doesn't tell you).
 opensource: false
 os:
    windows: web

@@ -12,6 +12,7 @@ pros:
    - Export libraries to different editors (including BibTex)
    - Installable in your own server.
    - Extensible via plugins for endless options ([zotxt](https://gitlab.com/egh/zotxt), [zotfile](http://zotfile.com/), [etc.](https://www.zotero.org/support/plugins))
+   - The [quick copy](https://www.zotero.org/support/creating_bibliographies#quick_copy) feature allows you to use just drag-and-drop to copy references to your text editor.
 cons:
    - Not able to share notes.
 opensource: https://github.com/zotero

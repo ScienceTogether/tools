@@ -17,6 +17,8 @@ pros:
 cons:
    - Conflicts difficult to understand (mostly with files that cannot be `diff`-ed)
    - Need account to comment or edit but not to view or download
+   - Dropbox Paper needs account to view and edit
+   - In Dropbox Paper a list of unknown contacts appears when you use `@`
 opensource: false
 os:
    windows: true

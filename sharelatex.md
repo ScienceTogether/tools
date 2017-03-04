@@ -13,7 +13,12 @@ pros:
    - history of modifications saved
    - git connection for offline editing.
    - See where the other users are editing.
+   - with publisher templates.
+   - syntax checking.
+   - Anonymous editing (sharing a link of a public document)
 cons:
+   - recompile is not synced between users (each user has to recompile for see the changes)
+   - anonymous cannot comment, only write in the document
 opensource: https://github.com/sharelatex/sharelatex
 os:
    windows: web
