@@ -3,6 +3,7 @@ title: gobby
 program: Gobby
 categories:
    - real-time-editing
+   - pair-programming
 logo: https://upload.wikimedia.org/wikipedia/commons/1/15/Gobby-logo.png
 link: http://gobby.github.io/
 wlink: https://en.wikipedia.org/wiki/Gobby
@@ -12,6 +13,7 @@ pros:
    - history of modifications saved
    - chat with other users
    - export to html keeping colours from contributors.
+   - can be used to write code
 cons:
    - The host needs to run your own server - and it may not be to everyone's reach
 opensource: http://github.com/gobby
